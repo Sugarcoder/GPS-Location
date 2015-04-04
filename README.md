@@ -4,4 +4,4 @@ This is how you can get a user's location, using GPS and based off of latitude a
 
 
 ### Acknowledgements: 
-<a href="https://www.youtube.com/channel/UCvCV3W5Vobz70t87FWomLgw">Java Experience</a>
+<a href="https://www.youtube.com/watch?v=h7LUNCC0U1U">Java Experience</a>
